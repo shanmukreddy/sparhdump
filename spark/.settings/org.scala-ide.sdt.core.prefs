@@ -1,3 +1,5 @@
+//../../../../../hadoop=main
+//../../../../../spark-1.6.0-bin-hadoop2.6=main
 //src/main/java=main
 //src/main/resources=main
 //src/main/scala=main
@@ -42,7 +44,7 @@ scala.compiler.installation=-252609460
 scala.compiler.sourceLevel=2.10
 scala.compiler.useProjectSettings=true
 stopBuildOnError=true
-target=jvm-1.6
+target=jvm-1.7
 unchecked=false
 useScopesCompiler=true
 verbose=false
